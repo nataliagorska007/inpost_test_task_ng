@@ -8,7 +8,7 @@ exports.config = {
         platformName: 'Android',
         'appium:deviceName': 'Pixel_5_API_30',
         'appium:platformVersion': '11.0',
-        'appium:app': 'C:/Users/ngorska/Downloads/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk',
+        'appium:app': 'C:/{path}/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk',
         'appium:automationName': 'UiAutomator2',
         'appium:appWaitActivity': 'com.swaglabsmobileapp.*'
     }],

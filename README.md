@@ -46,3 +46,6 @@ npx wdio run wdio.conf.js
 - If you use a different emulator, update **deviceName** and **platformVersion** accordingly.
 - Make sure the app APK is available locally and the path is set correctly.
 - You can use a .env file to manage your environment variables such as app path.
+
+## Results
+![image](https://github.com/user-attachments/assets/46fcad28-8f22-48e6-9f10-b3f9d4bed433)
